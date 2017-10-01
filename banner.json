@@ -1,0 +1,130 @@
+
+
+{
+  "code": 200, 
+  "data": {
+    "banners": [
+      {
+        "id": 290, 
+        "image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/170210/95nxowsor.jpg-w720", 
+        "order": 290, 
+        "status": 0, 
+        "target": {
+          "banner_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/170210/uehldyzss.jpg-w300", 
+          "cover_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/170210/ksy4is6v3.jpg-w720", 
+          "created_at": 1486708799, 
+          "id": 162, 
+          "posts_count": 4, 
+          "status": 0, 
+          "subtitle": "\u67d4\u8f6f\u516c\u4ed4\u966a\u7740\u4f60", 
+          "title": "\u53ef\u7231\u4e0e\u6e29\u6696\u5e76\u5b58", 
+          "updated_at": 1486708799
+        }, 
+        "target_id": 162, 
+        "target_url": "", 
+        "type": "collection"
+      }, 
+      {
+        "id": 289, 
+        "image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/170207/wzbg8vwyj.jpg-w720", 
+        "order": 289, 
+        "status": 0, 
+        "target": {
+          "banner_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/170207/swy4wfs6w.jpg-w300", 
+          "cover_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/170207/9q81z5hco.jpg-w720", 
+          "created_at": 1486432258, 
+          "id": 161, 
+          "posts_count": 7, 
+          "status": 0, 
+          "subtitle": "\u66f4\u8981\u9ad8\u989c\u503c", 
+          "title": "\u4e0d\u6b62\u8981\u597d\u7528", 
+          "updated_at": 1486432258
+        }, 
+        "target_id": 161, 
+        "target_url": "", 
+        "type": "collection"
+      }, 
+      {
+        "id": 288, 
+        "image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/170203/tzzdlowne.jpg-w720", 
+        "order": 288, 
+        "status": 0, 
+        "target": {
+          "banner_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/170203/d59e0n1z7.jpg-w300", 
+          "cover_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/170203/xryrihv8p.jpg-w720", 
+          "created_at": 1486088058, 
+          "id": 160, 
+          "posts_count": 5, 
+          "status": 1, 
+          "subtitle": "\u8fd8\u6709\u8fdc\u65b9\u7684\u4e66", 
+          "title": "\u751f\u6d3b\u4e0d\u6b62\u773c\u524d\u7684\u82df\u4e14", 
+          "updated_at": 1486088058
+        }, 
+        "target_id": 160, 
+        "target_url": "", 
+        "type": "collection"
+      }, 
+      {
+        "id": 287, 
+        "image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/170118/rd1kes23o.jpg-w720", 
+        "order": 287, 
+        "status": 0, 
+        "target": {
+          "banner_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160530/bcsk11p3s.jpg-w300", 
+          "cover_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/160530/k8a0lz2k2.jpg-w720", 
+          "created_at": 1445513081, 
+          "id": 22, 
+          "posts_count": 92, 
+          "status": 1, 
+          "subtitle": "None", 
+          "title": "\u840c\u5154\u9171FM", 
+          "updated_at": 1445513081
+        }, 
+        "target_id": 22, 
+        "target_url": "", 
+        "type": "collection"
+      }, 
+      {
+        "id": 286, 
+        "image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/170113/hdihqwunx.jpg-w720", 
+        "order": 286, 
+        "status": 0, 
+        "target": {
+          "banner_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/170113/z1fpnp87v.jpg-w300", 
+          "cover_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/170113/7syfxgwaw.jpg-w720", 
+          "created_at": 1484274135, 
+          "id": 159, 
+          "posts_count": 6, 
+          "status": 0, 
+          "subtitle": "\u8fd9\u4e9b\u793c\u7269\u90fd\u61c2", 
+          "title": "\u5bf9\u7236\u6bcd\u7684\u60e6\u5ff5\u548c\u5173\u5fc3", 
+          "updated_at": 1484274135
+        }, 
+        "target_id": 159, 
+        "target_url": "", 
+        "type": "collection"
+      }, 
+      {
+        "id": 282, 
+        "image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/170106/vzv084911.jpg-w720", 
+        "order": 282, 
+        "status": 0, 
+        "target": {
+          "banner_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/170106/7cp0cj49m.jpg-w300", 
+          "cover_image_url": "http://7xkwn3.com1.z0.glb.clouddn.com/image/170106/40n4o4vb4.jpg-w720", 
+          "created_at": 1483669652, 
+          "id": 156, 
+          "posts_count": 6, 
+          "status": 0, 
+          "subtitle": "\u9001TA\u4e00\u4efd\u51ac\u65e5\u6e29\u6696", 
+          "title": "\u628a\u7231\u88c5\u8fdb\u793c\u76d2\u91cc", 
+          "updated_at": 1483669652
+        }, 
+        "target_id": 156, 
+        "target_url": "", 
+        "type": "collection"
+      }
+    ]
+  }, 
+  "message": "OK"
+}
