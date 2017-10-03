@@ -1,13 +1,12 @@
 <template>
-    <div class="main">
-
-    </div>
+  <div class="contentPage">
+  </div>
 </template>
 
 <script>
   export default {}
 </script>
 
-<style lang="stylus" scoped>
+<style lang="less" scoped>
 
 </style>

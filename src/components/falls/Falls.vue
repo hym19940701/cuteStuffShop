@@ -21,6 +21,7 @@
 </template>
 
 <script>
+  import { mapMutations } from 'vuex'
   export default {
     data () {
       return {
@@ -33,6 +34,7 @@
       }
     },
     methods: {
+      ...mapMutations(['DISPLAY_CHANGE'])
     },
     created () {
       let self = this
@@ -71,36 +73,36 @@
         width: 100%;
         height: 100%;
       }
-      .bottom-triangle{
+      .bottom-triangle {
         position: absolute;
         left: 50%;
         bottom: 0;
-        margin-left:-10px ;
-        width:0;
-        height:0;
+        margin-left: -10px;
+        width: 0;
+        height: 0;
         border-width: 0 10px 10px 10px;
         border-color: white transparent;
         border-style: solid;
         z-index: 50;
       }
     }
-    .hide{
+    .hide {
       width: 100%;
-      height:100px;
+      height: 100px;
       overflow: auto;
     }
     .sub-imgbox {
       width: 700px;
       height: 100%;
-      padding-top:10px;
+      padding-top: 10px;
       .sub-img {
         width: 100px;
         height: 100%;
         float: left;
       }
-      a{
+      a {
         display: inline-block;
-        width:100px;
+        width: 100px;
         height: 100%;
       }
       a img {

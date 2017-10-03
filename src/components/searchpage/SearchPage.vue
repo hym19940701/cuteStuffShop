@@ -70,6 +70,7 @@
           border: 0;
           height: 26px;
           width: 230px;
+          outline:none ;
         }
         .search-delete{
           position: absolute;
