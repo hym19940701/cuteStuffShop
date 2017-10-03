@@ -7,9 +7,11 @@
         <div class="input-bar">
           <img class="editor-search" src="../../assets/bg_editor_search.9.png" >
           <input type="text" placeholder="搜遍天下萌物">
-          <img class="search-delete" src="../../assets/btn_search_delete.png" alt="">
+          <img class="search-delete" src="../../assets/btn_search_delete.png">
         </div>
-        搜索
+        <span>
+          搜索
+        </span>
       </div>
     </div>
   </div>
@@ -35,31 +37,47 @@
 
   .top-bar {
     width: 100%;
-    height: 8%;
+    height: 7%;
     background-color: red;
     overflow: hidden;
     .content-wrapper{
       position: relative;
-      justify-content:space-between;
+      left:3%;
       top:40%;
       .action-back{
-        width:30px;
+        width:35px;
         left:10px;
       }
       .input-bar {
         position: relative;
         display: inline-block;
+        bottom:43px;
         & .editor-search{
-          width:30px;
+          position: absolute;
+          width:60px;
         }
-        & .search-delete{
-          width:10px;
+        input{
+          position: absolute;
+          left:35px;
+          border-radius: 15px;
+          border: 0;
+          height: 26px;
+          width: 230px;
         }
-        /*bottom: -60%;*/
+        .search-delete{
+          position: absolute;
+          width:15px;
+          left:240px;
+          top:7px;
+        }
       }
+
       .action-back{
       }
       span{
+        position: absolute;
+        display: inline-block;
+        right:30px;
       }
     }
   }
