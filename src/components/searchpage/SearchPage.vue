@@ -42,16 +42,23 @@
     overflow: hidden;
     .content-wrapper{
       position: relative;
-      left:3%;
-      top:40%;
+      width:100%;
+      height:100%;
       .action-back{
+        position: absolute;
+        display: inline-block;
         width:35px;
+        height:35px;
         left:10px;
+        top:8px;
       }
       .input-bar {
         position: relative;
         display: inline-block;
-        bottom:43px;
+        width:100%;
+        height:100%;
+        top:10px;
+        left:50px;
         & .editor-search{
           position: absolute;
           width:60px;
@@ -72,12 +79,14 @@
         }
       }
 
-      .action-back{
-      }
+
       span{
         position: absolute;
         display: inline-block;
-        right:30px;
+        font-size: 17px;
+        color: white;
+        right:15px;
+        bottom:13px;
       }
     }
   }
