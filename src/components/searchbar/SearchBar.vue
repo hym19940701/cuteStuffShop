@@ -23,11 +23,9 @@
       }
     },
     methods: {
-      ...mapMutations(['DISPLAY_CHANGE'])
-    },
-    mounted () {
-      let self = this
-      function search () {
+      ...mapMutations(['DISPLAY_CHANGE']),
+      search () {
+        let self = this
         let search = document.querySelector('.searchBar')
         let searchbtn = document.querySelector('.searchbtn img')
         let logo = document.querySelector('.logo img')
@@ -49,8 +47,9 @@
           searchbtn.style.backgroundColor = `rgba(0, 0, 0, $(opacity))`
         }
       }
-
-      search()
+    },
+    mounted () {
+      this.search()
     }
   }
 
